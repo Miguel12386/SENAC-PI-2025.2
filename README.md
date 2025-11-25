@@ -7,7 +7,7 @@ Repositório para o projeto integrador do SENAC do grupo 12 do curso Análise e 
  - Rafael Gallo Casa
  - Samir Araripe
  - Thiago Marcelo Francisco Neves
-
+ - Miguel Ferreira Camisotti 
 
 # Introdução
 Trazemos o EducaFlex, plataforma de acompanhamento escolar gameficado que te ajudará a se organizar assim como trazer o estudo com mais objetividade e constância.
